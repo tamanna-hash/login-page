@@ -46,7 +46,10 @@ body {
     font-weight: 400;
     padding-bottom: 30px;
 }
-
+.login-card span{
+    color: rgb(224, 2, 2);
+    font-weight: 700;
+}
 .login-card label {
     font-size: 18px;
     font-weight: 400;
